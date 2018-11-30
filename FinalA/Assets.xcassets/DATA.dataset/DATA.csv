@@ -1,0 +1,38 @@
+v= \\frac{ds}{dt},velocity,distance,time,
+"a=\\frac{dv}{dt}
+",acceleration,velocity,time,
+v=v_0 + at,velocity,acceleration,time,
+s=s_0+v_0t+\\frac{1}{2}at^2,distance,velocity,acceleration,time
+v^2 = v_0^2+2a(s-s_0),distance,velocity,acceleration,
+\\sum f = ma,force,mass,acceleration,
+\\sum f = \\frac{dp}{dt},force,momentum,time,
+W=mg,weight,mass,gravity,
+f_s \\le \\mu_sN,force,coeffFS,,
+f_k = \\mu_kN,force,coeffFK,,
+a_c = \\frac{v^2}{r},acceleration,velocity,radius,
+a_c = -\\omega^2r,acceleration,velocity,radius,
+p=mv,momentum,mass,velocity,
+J=F\\Delta t,impulse,force,time,
+F\\Delta t = m\\Delta v,force,time,mass,velocity
+W=F\\Delta s cos\\theta,work,force,distance,angle
+F\\Delta s cos\\theta = \\Delta E,force,distance,angle,energy
+K=\\frac{1}{2}mv^2,energy,mass,velocity,
+K=\\frac{p^2}{2m},energy,momentum,mass,
+F= -\\Delta U ,force,energy,,
+\\Delta U_g = mg \\Delta h,energy,mass,gravity,distance
+,,,,
+,v,,,
+,t,,,
+,a,,,
+,s,,,
+,f,,,
+,m,,,
+,g,,,
+,w,,,
+,mk,,,
+,ms,,,
+,r,,,
+,j,,,
+,w,,,
+,theta,,,
+,e,,,
